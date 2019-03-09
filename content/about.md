@@ -1,16 +1,13 @@
 +++
-title = ""
 date = "2017-06-27T17:39:21-07:00"
-draft = false
-+++
+title = ""
 
++++
 # Life Takes Practice
 
 ### ...and Practice Makes Perfect.
 
-Are you serious about developing your skills?
-Your career?
-Your relationships?
+Are you serious about developing your skills? Your career? Your relationships?
 
 Learn and Practice new superpowers. Rise above all the other slow people.
 
