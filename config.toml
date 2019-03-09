@@ -1,11 +1,11 @@
 title = "Prakti"
 baseURL = "https://prakti.me"
-tags = ["learn", "practice", "blog"]
+tags = ["learn", "practice"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-135929486-1"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
@@ -29,6 +29,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 
   # Copyright and theme author credit in footer
   copyright = true
+  copyright_business = "Yudame Inc"
   credit = false
 
   # Cache busting of static resources (additional set up required)
@@ -43,7 +44,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   # Choose either Formspree contact form or Basin contact form
   ajaxFormspree = false
   ajaxFormspreeGold = false
-  ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
+  ajaxBasin = ""
 
 [[menu.main]]
   name = "About"
@@ -57,7 +58,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 #   name = "Miami Sessions"
 #   url  = "/#blog"
 #   weight = 3
-[[menu.main]]
-  name = "Contact"
-  url  = "/#contact"
-  weight = 4
+# [[menu.main]]
+#   name = "Contact"
+#   url  = "/#contact"
+#   weight = 4
