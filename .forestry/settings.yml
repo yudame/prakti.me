@@ -13,7 +13,7 @@ front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
 build:
-  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  preview_command: hugo -D
   publish_command: hugo
   preview_env:
   - HUGO_ENV=staging
