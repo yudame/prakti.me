@@ -9,7 +9,7 @@ title = "About"
 
 Are you serious about developing your skills? Your career? Your relationships?
 
-Learn and Practice new superpowers. Rise above all the other slow people.
+Learn and Practice new superpowers and rise above all the other slow people.
 
 Join exclusive workshops and aim for living at 💯%
 
