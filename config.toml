@@ -5,7 +5,7 @@ languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = "UA-135929486-1"
+googleAnalytics = "" # UA-135929486-1
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
